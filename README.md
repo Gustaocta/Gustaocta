@@ -20,12 +20,12 @@
   <img align="center" alt="Gustavo-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   <img align="center" alt="Gustavo-Java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
   <img align="center" alt="Gustavo-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" />
-   <img align="right" alt="Gustavo-pic" height="200" style="border-radius:80px;" src="[https://media.discordapp.net/attachments/967928980336443445/971558472481120276/download20220400202113.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.las2orillas.co%2Fsheldon-cooper-no-es-el-unico-con-sindrome-de-asperger%2F&psig=AOvVaw3dJhan8HAWQ4GlwENFmH6c&ust=1680024423425000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCKi_0N_Q_P0CFQAAAAAdAAAAABAK)">
+   <img align="right" alt="Gustavo-pic" height="200" style="border-radius:80px;" src="">
 </div>  
   
 ##
  <div>
-  <a href="(https://www.linkedin.com/in/gustavo-otac%C3%ADlio-dos-santos-b7824b144/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/gustavo-otac%C3%ADlio-dos-santos-b7824b144/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
    <a href = "mailto:gustavootaciliodossantos@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   </div>  
   
