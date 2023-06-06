@@ -21,6 +21,8 @@
   <img align="center" alt="Gustavo-Java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
   <img align="center" alt="Gustavo-trello" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" />
    <img align="center" alt="Gustavo-mySQL" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+  <img align="center" alt="Gustavo-sass" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"/>
+  <img align="center" alt="Gustavo-git" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
    <img align="right" alt="Gustavo-pic" height="200" style="border-radius:80px;" src="https://mega.ibxk.com.br/2013/1/materias/1190267307134946.jpg?ims=610x">
 </div>  
   
