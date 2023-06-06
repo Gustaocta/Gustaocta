@@ -32,6 +32,7 @@
   <img align="center" alt="Gustavo-gimp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg"/>
   <img align="center" alt="Gustavo-visualStudio" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg"/>
    <img align="center" alt="Gustavo-typeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
+   <img align="center" alt="Gustavo-php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
    <img align="right" alt="Gustavo-pic" height="200" style="border-radius:80px;" src="https://mega.ibxk.com.br/2013/1/materias/1190267307134946.jpg?ims=610x">
 </div>  
   
